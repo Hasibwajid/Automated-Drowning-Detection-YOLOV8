@@ -13,9 +13,8 @@ Dataset Used
 First Dataset - Roboflow Universe
 Second Dataset - Team Burraq via Roboflow Universe
 Sample Detection Images
-Image 1
-Image 2
+![WhatsApp Image 2023-12-10 at 12 38 25 PM (1)](https://github.com/Hasibwajid/Automated-Drowning-Detection-YOLOV8/assets/72168225/1796c6c3-e36c-4866-8a0e-97053717981e)
+![WhatsApp Image 2023-12-10 at 12 37 08 PM](https://github.com/Hasibwajid/Automated-Drowning-Detection-YOLOV8/assets/72168225/2c4c93ac-497e-497d-bbec-58fda3de8b8c)
 
-<!-- Add more detection images as needed -->
 Usage
 Detailed instructions and code implementation for automated drowning detection are provided in this repo..
