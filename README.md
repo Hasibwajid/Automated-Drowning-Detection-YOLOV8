@@ -6,7 +6,7 @@ This repository presents a comprehensive solution for automated drowning detecti
 
 Our approach involved rigorous model refinement to achieve accurate drowning detection:
 - **Initial Model Training:** We initially trained the YOLO v8 architecture on a [dataset](https://universe.roboflow.com/object-detection-model/drowning-detection-wqiom) but encountered suboptimal detection results.
-- **Dataset Analysis:** Recognizing the limitations, we integrated a secondary dataset, [Team Burraq via Roboflow Universe](https://universe.roboflow.com/team-burraq/drowning-detection-main/model/), to augment our model's understanding of varied drowning scenarios.
+- **Dataset Analysis:** Recognizing the limitations, we integrated a secondary dataset, [Team Burraq via Roboflow Universe]([https://universe.roboflow.com/team-burraq/drowning-detection-main/model/](https://universe.roboflow.com/team-burraq/drowning-detection-main)), to augment our model's understanding of varied drowning scenarios.
 - **Fine-Tuning for Enhanced Precision:** To address the limitations observed in initial detection, we subjected the previously trained model to a further 20 epochs of fine-tuning on the new dataset. This refined training significantly improved detection accuracy and sensitivity, evident in the detection images included.
 
 ## Key Features
@@ -20,7 +20,7 @@ Our approach involved rigorous model refinement to achieve accurate drowning det
 
 ## Dataset Used
 - **First Dataset:** [Roboflow Universe](https://universe.roboflow.com/object-detection-model/drowning-detection-wqiom)
-- **Second Dataset:** [Team Burraq via Roboflow Universe](https://universe.roboflow.com/team-burraq/drowning-detection-main/model/)
+- **Second Dataset:** [Team Burraq via Roboflow Universe]([https://universe.roboflow.com/team-burraq/drowning-detection-main/model/](https://universe.roboflow.com/team-burraq/drowning-detection-main))
 
 ## Sample Detection Images
 ![WhatsApp Image 2023-12-10 at 12 38 25 PM (1)](https://github.com/Hasibwajid/Automated-Drowning-Detection-YOLOV8/assets/72168225/1796c6c3-e36c-4866-8a0e-97053717981e)
